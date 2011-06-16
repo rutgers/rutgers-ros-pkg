@@ -1,9 +1,9 @@
 [submodule "avr_bridge"]
 	path = avr_bridge
 	url = https://github.com/rutgers/avr_bridge.git
-[submodule "imu_9drazor"]
-	path = imu_9drazor
-	url = https://github.com/rutgers/imu_9drazor.git
+
+
+
 [submodule "avr_bridge_unittest"]
 	path = avr_bridge_unittest
 	url = git@github.com:rutgers/avr_bridge_unittest.git
